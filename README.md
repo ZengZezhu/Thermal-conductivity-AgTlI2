@@ -8,6 +8,6 @@ Fig. 2b: Calculated anharmonic parameters of some simple crystals (PbSe, PbTe, A
 
 Fig. 2c: Time dependent anharmonic parameter of AgTlI2 at 300 K.
 
-# fig.2-data
+# fig.3-data
 # fig.4-data
 # fig.5-data
