@@ -9,5 +9,11 @@ Fig. 2b: Calculated anharmonic parameters of some simple crystals (PbSe, PbTe, A
 Fig. 2c: Time dependent anharmonic parameter of AgTlI2 at 300 K.
 
 # fig.3-data
+Phonon linewidths 
+
 # fig.4-data
+
+Thermal conductivities based on unified theory
+
 # fig.5-data
+Fig. 5 is simply an illustration and doesn't require any specific and accurate data. 
