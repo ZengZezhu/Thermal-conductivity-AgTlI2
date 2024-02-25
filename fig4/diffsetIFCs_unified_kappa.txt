@@ -1,0 +1,3 @@
+#noTE-noTDEP    with-TE-no-TDEP       with-TE-TDEP      
+0.122 0.127      0.0261  0.0451        0.148   0.132     # population
+0.121 0.140      0.133   0.159         0.106   0.133     # coherence
