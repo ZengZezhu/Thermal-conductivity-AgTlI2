@@ -18,4 +18,4 @@ Phonon linewidths
 Thermal conductivities based on unified theory
 
 # fig.5-data
-Fig. 5 is simply an illustration and doesn't require any specific and accurate data. 
+Fig. 5 is simply an illustration and doesn't require any specific data. 
